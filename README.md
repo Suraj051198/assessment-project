@@ -85,3 +85,47 @@ This project is a full-stack application developed using the MERN (MongoDB, Expr
    ```bash
    git clone https://github.com/Suraj051198/assessment-project.git
    cd assessment-project
+
+## cd backend
+npm install
+npm start
+
+## cd frontend
+npm install
+npm run dev
+
+ 4. **Access the Application:**
+    Backend: http://localhost:5000
+    Frontend: http://localhost:3000
+
+## Technologies Used
+
+    MongoDB: NoSQL database
+    Express.js: Backend framework
+    React.js: Frontend library
+    Node.js: Runtime environment
+
+## License
+
+This project is licensed under the MIT License.
+
+
+### Step 1: Create and Edit the README.md File
+1. In your project directory, create a new file named `README.md` if you haven't already.
+2. Copy and paste the content above into the `README.md` file.
+3. Save the file.
+
+### Step 2: Add and Push the README to GitHub
+Run the following commands in your terminal to add and push the `README.md` file:
+
+```bash
+# Add the README file
+git add README.md
+
+# Commit the changes
+git commit -m "Added README documentation"
+
+# Push to GitHub
+git push origin main
+
+
